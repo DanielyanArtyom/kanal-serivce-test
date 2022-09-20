@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "kanal-serivce-test",
-    "slug": "kanal-serivce-test",
+    "name": "kanal-service-test",
+    "slug": "kanal-service-test",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
